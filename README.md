@@ -1,6 +1,6 @@
 # Hey, nice to see you
 #### I'm Jorge Siqueira
-<p>a computer science and engineering student from Brazil, now living in Portugal.</p> 
+<p>A computer science and engineering student from Brazil, currently living in Portugal.</p> 
 <p>
   <a target="_blank" href="https://www.facebook.com/jorgsiq"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
    <a target="_blank" href="https://www.instagram.com/jorgsiq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
