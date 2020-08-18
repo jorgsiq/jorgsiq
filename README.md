@@ -2,14 +2,11 @@
 ### I'm Jorge Siqueira
 A Computer Science and Engineering student from Brazil, currently living in Portugal.
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/jorgsiq"><img src="https://img.shields.io/badge/jorgsiq-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=linkedin&logoColor=white" height=25></a> 
+   <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=odnoklassniki&logoColor=white" height=25></a> 
+  <a target="_blank" href="https://www.linkedin.com/in/jorgsiq"><img src="https://img.shields.io/badge/Jorge Siqueira-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=linkedin&logoColor=white" height=25></a> 
   <a target="_blank" href="mailto:hello@jorgesiqueira.com"><img src="https://img.shields.io/badge/hello@jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=gmail&logoColor=white" height=25></a>
-
-  
-
 </p>
- <a target="_blank" href="https://www.jorgesiqueira.com/hello">🌐 Check out my website</a>
-
+ 
 <!--<p>
   <a target="_blank" href="https://www.facebook.com/jorgsiq"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
    <a target="_blank" href="https://www.instagram.com/jorgsiq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
