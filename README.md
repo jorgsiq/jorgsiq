@@ -1,4 +1,4 @@
-# Hey, nice to see you
+# Hey, nice to see you!
 ### I'm Jorge Siqueira
 A Computer Science and Engineering student from Brazil, currently living in Portugal.
 <p>
