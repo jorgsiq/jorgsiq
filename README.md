@@ -2,7 +2,7 @@
 ### I'm Jorge Siqueira
 A Computer Science and Engineering student from Brazil, currently living in Portugal.
 <p>
-   <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=odnoklassniki&logoColor=white" height=25></a> 
+   <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=envato&logoColor=white" height=25></a> 
   <a target="_blank" href="https://www.linkedin.com/in/jorgsiq"><img src="https://img.shields.io/badge/Jorge Siqueira-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=linkedin&logoColor=white" height=25></a> 
   <a target="_blank" href="mailto:hello@jorgesiqueira.com"><img src="https://img.shields.io/badge/hello@jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=gmail&logoColor=white" height=25></a>
 </p>
