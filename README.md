@@ -1,6 +1,6 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-a computer science and engineering student from Brazil (actually living in Portugal) trying to collaborate for a more connected and sustainable world...
+A computer science and engineering student from Brazil (actually living in Portugal) trying to collaborate for a more connected and green world through the technology...
 
 <p>
    <a target="_blank" href="https://www.jorgesiqueira.com/hello"><img src="https://img.shields.io/badge/jorgesiqueira.com-%231877F2.svg?style=flat-square&labelColor=231877F2&logo=envato&logoColor=white" height=25></a> 
