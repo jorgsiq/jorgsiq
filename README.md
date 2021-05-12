@@ -9,7 +9,7 @@ A computer science and engineering student from Brazil (actually living in Portu
     <a target="_blank" href="https://bit.ly/wpp-jorgsiq"><img src="https://img.shields.io/badge/WhatsApp-0078D6.svg?style=flat-square&labelColor=231877F2&logo=whatsapp&logoColor=white" height=25></a> 
 </p><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgsiq&theme=prussian&hide_border=true&background=DD272700&stroke=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgsiq&theme=react&hide_border=true&background=DDDDDD00&dates=B8B8B8&fire=007EE1&ring=007EE1&currStreakLabel=007EE1&sideLabels=007EE1&sideNums=007EE1&currStreakNum=007EE1)](https://github.com/jorgsiq)
  
 <!--<p>
   <a target="_blank" href="https://www.facebook.com/jorgsiq"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
