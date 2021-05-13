@@ -18,6 +18,9 @@ A computer science and engineering student from Brazil (actually living in Portu
 <a href="https://github.com/jorgsiq/dogge-bot"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true"/></a> </div>
 
 # ㅤ
+
+<br>
+
 ### My Code Stats
 Data provided by WakaTime, see more <a target="_blank" href="https://wakatime.com/@jorgsiq">here</a>
 
