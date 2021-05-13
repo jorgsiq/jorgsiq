@@ -11,7 +11,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 
 
 # ㅤ
-### Github Activity & Stats
+### My Code Stats
 Data provided by WakaTime, see more <a target="_blank" href="https://wakatime.com/@jorgsiq">here</a>
 
 <br><a target="_blank" href="https://wakatime.com/@jorgsiq"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jorgsiq&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&custom_title=This Week&hide_rank=true&range=last_7_days"></a> 
