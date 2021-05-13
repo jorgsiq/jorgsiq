@@ -15,7 +15,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 
 <div>
 <a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
-<a><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
+<a target="_blank" href="https://github.com/discordjs/discord.js"><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
 <a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
 <a href="https://github.com/jorgsiq/dogge-bot"><img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=0078D6&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true"/></a> 
 </div>
