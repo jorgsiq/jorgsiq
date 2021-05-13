@@ -11,7 +11,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 
 # ㅤ
 ### My Last Project
-<a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525&scope=bot&permissions=842263608">Use Đoge Bot on your Discord Server</a>
+<a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525&scope=bot&permissions=842263608">Use Đoge Bot on your own Discord Server</a>
 
 <div>
 <a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
