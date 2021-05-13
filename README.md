@@ -14,7 +14,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 ### Github Activity & Stats
 Data provided by WakaTime, see more <a target="_blank" href="https://wakatime.com/@jorgsiq">here</a>
 
-<br><a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jorgsiq&text_color=cfcfcf&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&custom_title=This Week&hide_rank=true&range=last_7_days"></a> 
+<br><a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jorgsiq&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&custom_title=This Week&hide_rank=true&range=last_7_days"></a> 
 
 
 # ㅤ
@@ -23,5 +23,5 @@ Data provided by WakaTime, see more <a target="_blank" href="https://wakatime.co
 <div><a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
 <a target="_blank" href="https://github.com/discordjs/discord.js"><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
 <a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
-<a href="https://github.com/jorgsiq/dogge-bot"><img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=0078D6&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true"/></a> </div>
+<a href="https://github.com/jorgsiq/dogge-bot"><img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true"/></a> </div>
 
