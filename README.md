@@ -9,14 +9,20 @@ A computer science and engineering student from Brazil (actually living in Portu
     <a target="_blank" href="https://bit.ly/wpp-jorgsiq"><img src="https://img.shields.io/badge/WhatsApp-0078D6.svg?style=flat-square&labelColor=231877F2&logo=whatsapp&logoColor=white" height=25></a> 
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jorgsiq&theme=react&hide_border=true&background=DDDDDD00&dates=B8B8B8&fire=007EE1&ring=007EE1&currStreakLabel=007EE1&sideLabels=007EE1&sideNums=007EE1&currStreakNum=007EE1)](https://github.com/jorgsiq)
- 
-<!--<p>
-  <a target="_blank" href="https://www.facebook.com/jorgsiq"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
-   <a target="_blank" href="https://www.instagram.com/jorgsiq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a target="_blank" href="https://www.twitter.com/jorgsiq"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><br>
-   <a target="_blank" href="https://www.github.com/jorgsiq"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a> 
-  <a target="_blank" href="https://www.linkedin.com/in/jorgsiq"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-</p>
--->
+# ㅤ
+### My Last Project
+<div>
+
+ <a href="https://github.com/jorgsiq"><img  align="left" src="https://i.imgur.com/ht266w1.gif" /></a>
+  
+  <a><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
+<a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
+
+<a href="https://github.com/jorgsiq">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=0078D6&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true" />
+</div>
+
+
+
+
 
