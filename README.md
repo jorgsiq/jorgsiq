@@ -15,7 +15,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 <div><a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
 <a target="_blank" href="https://github.com/discordjs/discord.js"><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
 <a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
-<a href="https://github.com/jorgsiq/dogge-bot"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true?2"/></a> </div>
+<a href="https://github.com/jorgsiq/dogge-bot"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true&cache_seconds=1800"/></a> </div>
 
 # ㅤ
 
@@ -23,7 +23,7 @@ A computer science and engineering student from Brazil (actually living in Portu
 ### My Recent Activity
 Data provided by WakaTime, see more info. <a target="_blank" href="https://wakatime.com/@jorgsiq">here</a>
 
-<br><a target="_blank" href="https://wakatime.com/@jorgsiq"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jorgsiq&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&custom_title=This Week&hide_rank=true&range=last_7_days?3"></a> 
+<br><a target="_blank" href="https://wakatime.com/@jorgsiq"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jorgsiq&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&custom_title=This Week&hide_rank=true&range=last_7_days&cache_seconds=1800&langs_count=3"></a> 
 
 
 # ㅤ
