@@ -1,9 +1,8 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-Frontend Engineer
-Based in Lisbon, Portugal
-Proudly part of the Priberam Team
-
+Frontend Engineer<br><br>
+Based in Lisbon, Portugal<br><br>
+Proudly part of the Priberam Team<br><br>
 Currently Closed for comissions/freelancing 
 <br><br>
 <p> 
