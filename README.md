@@ -1,10 +1,11 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-Frontend Engineer<br><br>
-Based in Lisbon, Portugal<br><br>
+Frontend Engineer<br>
+Based in Lisbon, Portugal<br>
 Proudly part of the Priberam Team<br><br>
 Currently Closed for comissions/freelancing 
 <br><br>
+Some repositories are no longer public
 <p> 
 <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=&logoColor=white" height=25></a> 
 <a target="_blank" href="mailto:hello@jorgesiqueira.com"><img src="https://img.shields.io/badge/hello@jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=mail&logoColor=white" height=25></a>
