@@ -1,6 +1,13 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-A computer science and engineering student from Brazil (currently living in Portugal) trying to collaborate for a more connected and green world through technology
+I help people turn good ideas into reality
+
+Frontend Engineer
+Based in Lisbon, Portugal
+
+Currently Closed for comissions/freelancing 
+Some repositories are no longer public, but feel free to ask anything about (Sharify)
+Proudly part of the Priberam Team
 <br><br>
 <p> 
 <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=&logoColor=white" height=25></a> 
@@ -10,7 +17,7 @@ A computer science and engineering student from Brazil (currently living in Port
 </p>
 
 # ㅤ
-### My Last Project
+### Take a Look
 <a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525&scope=bot&permissions=842263608">Use Đoge Bot</a> on your own Discord Server
 <div><a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
 <a target="_blank" href="https://github.com/discordjs/discord.js"><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
