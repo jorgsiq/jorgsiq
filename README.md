@@ -5,8 +5,6 @@ Based in Lisbon, Portugal
 Proudly part of the Priberam Team
 
 Currently Closed for comissions/freelancing 
-
-Some repositories are no longer public
 <br><br>
 <p> 
 <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=&logoColor=white" height=25></a> 
