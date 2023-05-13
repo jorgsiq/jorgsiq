@@ -10,6 +10,7 @@ Currently Closed for comissions/freelancing
 <a target="_blank" href="https://www.linkedin.com/in/jorgsiq"><img src="https://img.shields.io/badge/LinkedIn-0078D6.svg?style=flat-square&labelColor=231877F2&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 I'm so sorry, but some relevant repositories are no longer public, at least until I have the opportunity to make them better. However, you can always stay in touch through any channel and see more information about these projects on my website
+
 # ㅤ
 ### Take a Look
 <a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525&scope=bot&permissions=842263608">Use Đoge Bot</a> on your own Discord Server
