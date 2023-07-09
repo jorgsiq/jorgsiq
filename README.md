@@ -1,6 +1,6 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-A Brazilian Frontend Engineer<br>
+A Brazilian Software Engineer<br>
 Based in Lisbon, Portugal<br>
 Proudly part of the Priberam Team<br><br>
 Currently Closed for comissions/freelancing 
