@@ -1,9 +1,9 @@
 # Hey, nice to see you!
 ### I'm Jorge Siqueira
-A Brazilian Software Engineer<br>
-Based in Lisbon, Portugal<br>
-Proudly part of the Priberam Team<br><br>
-Currently Closed for comissions/freelancing 
+A Brazilian Product Engineer<br>
+Based in Porto, Portugal<br>
+Proudly part of the Priberam team<br><br>
+Currently closed for comissions/freelancing 
 <p> 
 <a target="_blank" href="https://www.jorgesiqueira.com"><img src="https://img.shields.io/badge/jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=&logoColor=white" height=25></a> 
 <a target="_blank" href="mailto:hello@jorgesiqueira.com"><img src="https://img.shields.io/badge/hello@jorgesiqueira.com-0078D6.svg?style=flat-square&labelColor=231877F2&logo=mail&logoColor=white" height=25></a>
@@ -19,5 +19,4 @@ Currently Closed for comissions/freelancing
 <a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
 <a href="https://github.com/jorgsiq/dogge-bot"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=jorgsiq&repo=dogge-bot&text_color=737373&icon_color=0078D6&hide_border=false&border_color=0078D6&bg_color=FF000000&hide_title=true&hide_rank=true&cache_seconds=1800"/></a> </div>
 
-# ㅤ
 
