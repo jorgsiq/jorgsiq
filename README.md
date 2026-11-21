@@ -13,7 +13,7 @@ Currently closed for comissions/freelancing
 
 # ㅤ
 ### Take a Look
-<a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525&scope=bot&permissions=842263608">Use Đoge Bot</a> on your own Discord Server
+<a target="_blank" href="https://discord.com/oauth2/authorize?client_id=826073829302206525">Use Đoge Bot</a> on your own Discord Server
 <div><a><img  align="left" src="https://i.imgur.com/ht266w1.gif"/></a>
 <a target="_blank" href="https://github.com/discordjs/discord.js"><br><br><img src="https://img.shields.io/badge/Discord.js-4A4A55.svg?style=flat-square&labelColor=231877F2&logo=discord&logoColor=white" height=25></a>
 <a><img src="https://img.shields.io/badge/JavaScript-0078D6.svg?style=flat-square&labelColor=231877F2&logo=JavaScript&logoColor=white" height=25></a> 
